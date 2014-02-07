@@ -1,0 +1,16 @@
+02-07 03:28:24.786: I/Lab-ActivityOne(1235): Entered the onCreate() method
+02-07 03:28:24.815: I/Lab-ActivityOne(1235): Entered the onStart() method
+02-07 03:28:24.836: I/Lab-ActivityOne(1235): Entered the onResume() method
+02-07 03:28:32.926: I/Lab-ActivityOne(1235): Entered the onPause() method
+02-07 03:28:32.926: I/Lab-ActivityOne(1235): Entered the onStop() method
+02-07 03:28:32.935: I/Lab-ActivityOne(1235): Entered the onDestroy() method
+02-07 03:28:33.555: I/Lab-ActivityOne(1235): Entered the onCreate() method
+02-07 03:28:33.555: I/Lab-ActivityOne(1235): Entered the onStart() method
+02-07 03:28:33.555: I/Lab-ActivityOne(1235): Entered the onResume() method
+02-07 03:28:39.446: I/Lab-ActivityOne(1235): Entered the onPause() method
+02-07 03:28:39.446: I/Lab-ActivityOne(1235): Entered the onStop() method
+02-07 03:28:39.455: I/Lab-ActivityOne(1235): Entered the onDestroy() method
+02-07 03:28:40.685: I/Lab-ActivityOne(1235): Entered the onCreate() method
+02-07 03:28:40.685: I/Lab-ActivityOne(1235): Entered the onStart() method
+02-07 03:28:40.685: I/Lab-ActivityOne(1235): Entered the onResume() method
+02-07 03:28:45.916: I/Lab-ActivityOne(1235): Entered the onPause() method
