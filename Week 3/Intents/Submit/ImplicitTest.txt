@@ -1,0 +1,2 @@
+02-09 22:52:06.711: I/Lab-Intents(1281): Entered startImplicitActivation()
+02-09 22:52:06.711: I/Lab-Intents(1281): Chooser Intent Action:android.intent.action.CHOOSER
