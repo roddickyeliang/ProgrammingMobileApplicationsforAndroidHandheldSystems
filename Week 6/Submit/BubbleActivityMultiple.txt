@@ -1,0 +1,2 @@
+03-05 03:05:04.860: I/Lab-Graphics(2061): Creating Bubble at: x:250.0 y:250.0
+03-05 03:05:06.364: I/Lab-Graphics(2061): Creating Bubble at: x:500.0 y:500.0
